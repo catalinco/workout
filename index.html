@@ -9,24 +9,21 @@
   <style>
     body { font-size: 1.25rem; }
     .nav-btn { min-width: 48px; min-height: 48px; font-size: 1.5rem; }
-    #weekText, #dayText { font-size: 1.3rem; color: #0d6efd; }
-    h1 { color: #0d6efd; }
-    .table { border: 2px solid #0d6efd; }
-    .table-dark { background: #0d6efd; }
+    #weekText, #dayText { font-size: 1.3rem; }
   </style>
 </head>
 <body class="bg-light">
   <div class="container py-3">
     <h1 class="mb-3 fs-4">4-Day Program 2026</h1>
     <div class="mb-2 d-flex align-items-center justify-content-center gap-3">
-      <button class="btn btn-outline-primary nav-btn" onclick="change('week',-1)"><i class="bi bi-chevron-left"></i></button>
+      <button class="btn btn-outline-secondary nav-btn" onclick="change('week',-1)"><i class="bi bi-chevron-left"></i></button>
       <span id="weekText" class="text-center fw-bold" style="min-width:80px"></span>
-      <button class="btn btn-outline-primary nav-btn" onclick="change('week',1)"><i class="bi bi-chevron-right"></i></button>
+      <button class="btn btn-outline-secondary nav-btn" onclick="change('week',1)"><i class="bi bi-chevron-right"></i></button>
     </div>
     <div class="mb-3 d-flex align-items-center justify-content-center gap-3">
-      <button class="btn btn-outline-primary nav-btn" onclick="change('day',-1)"><i class="bi bi-chevron-left"></i></button>
+      <button class="btn btn-outline-secondary nav-btn" onclick="change('day',-1)"><i class="bi bi-chevron-left"></i></button>
       <span id="dayText" class="text-center fw-bold" style="min-width:180px"></span>
-      <button class="btn btn-outline-primary nav-btn" onclick="change('day',1)"><i class="bi bi-chevron-right"></i></button>
+      <button class="btn btn-outline-secondary nav-btn" onclick="change('day',1)"><i class="bi bi-chevron-right"></i></button>
     </div>
     <table class="table table-striped">
       <thead class="table-dark"><tr><th>Exercise</th><th>Sets</th><th>Reps</th></tr></thead>
