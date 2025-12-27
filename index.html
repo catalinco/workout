@@ -15,7 +15,6 @@
 </head>
 <body class="bg-light">
   <div class="container py-3">
-    <h1 class="mb-3 fs-4">4-Day Program 2026</h1>
     <div class="mb-2 d-flex align-items-center justify-content-center gap-3">
       <button class="btn btn-outline-secondary nav-btn" onclick="change('week',-1)"><i class="bi bi-chevron-left"></i></button>
       <span id="weekText" class="text-center fw-bold" style="min-width:80px"></span>
@@ -27,9 +26,10 @@
       <button class="btn btn-outline-secondary nav-btn" onclick="change('day',1)"><i class="bi bi-chevron-right"></i></button>
     </div>
     <table class="table table-striped">
-      <thead class="table-dark"><tr><th>Exercise</th><th>Sets</th><th>Reps</th></tr></thead>
+      <thead class="table-dark"><tr><th>Exercise</th><th>Sets</th><th>Reps</th><th></th></tr></thead>
       <tbody id="exercises"></tbody>
     </table>
+    <h1 class="mt-3 fs-4 text-center">4-Day Program 2026</h1>
   </div>
 
   <script>
@@ -47,6 +47,11 @@
       render();
     }
 
+    function toggle(i, checked) {
+      localStorage.setItem(`${day}-${week}-${i}`, checked ? '1' : '0');
+      render();
+    }
+
     function render() {
       if (!program) return;
       localStorage.setItem('week', week);
@@ -54,7 +59,7 @@
       document.getElementById('weekText').textContent = `Week ${week + 1}`;
       document.getElementById('dayText').textContent = program.days[day].name;
       document.getElementById('exercises').innerHTML = program.days[day].exercises
-        .map(e => { const [s,r] = e.weeks[week].split('x'); return `<tr><td>${e.name}</td><td>${s}</td><td>${r}</td></tr>`; }).join('');
+        .map((e, i) => { const [s,r] = e.weeks[week].split('x'); const key = `${day}-${week}-${i}`; const checked = localStorage.getItem(key) === '1'; return `<tr class="${checked ? 'table-success' : ''}"><td>${e.name}</td><td>${s}</td><td>${r}</td><td><input type="checkbox" class="form-check-input" ${checked ? 'checked' : ''} onchange="toggle(${i}, this.checked)"></td></tr>`; }).join('');
     }
   </script>
 </body>
