@@ -4,17 +4,16 @@
       "name": "Day 1 - Monday (Foundation)",
       "exercises": [
         {"name": "Back Extensions", "weeks": ["3x10", "3x10", "3x10", "3x10", "3x10", "3x10"]},
-        {"name": "Squat", "weeks": ["3x5", "3x6", "4x5", "4x6", "5x5", "3x5"]},
+        {"name": "Low Bar Squat", "weeks": ["3x5", "3x6", "4x5", "4x6", "5x5", "3x5"]},
         {"name": "Bench Press", "weeks": ["3x6", "3x8", "4x6", "4x8", "5x6", "3x6"]},
-        {"name": "Push Press", "weeks": ["3x8", "3x10", "4x8", "4x10", "4x12", "2x10"]},
-        {"name": "Prayer Lat Pulldown", "weeks": ["3x10", "3x12", "4x10", "4x12", "5x10", "3x10"]},
-        {"name": "Reverse Flyes", "weeks": ["3x12", "3x15", "4x12", "4x15", "5x12", "3x12"]},
-        {"name": "Step Ups", "weeks": ["3x10", "3x12", "4x10", "4x12", "5x10", "3x10"]},
+        {"name": "Kettlebell Swings", "weeks": ["3x15", "3x18", "4x15", "4x18", "4x20", "2x15"]},
+        {"name": "Pull-Ups", "weeks": ["3x5", "3x6", "4x5", "4x6", "5x5", "3x5"]},
+        {"name": "Farmers Carries", "weeks": ["3x40m", "3x40m", "4x40m", "4x40m", "5x40m", "3x40m"]},
         {"name": "Abs", "weeks": ["3x15", "3x15", "4x15", "4x15", "5x15", "3x15"]}
       ]
     },
     {
-      "name": "Day 2 - Tuesday (Structural)",
+      "name": "Day 2 - Wednesday (Structural)",
       "exercises": [
         {"name": "Back Extensions", "weeks": ["3x10", "3x10", "3x10", "3x10", "3x10", "3x10"]},
         {"name": "Deadlift", "weeks": ["3x5", "3x6", "4x5", "4x6", "5x5", "3x5"]},
@@ -22,8 +21,7 @@
         {"name": "Incline DB Press", "weeks": ["3x8", "3x10", "4x8", "4x10", "5x8", "3x8"]},
         {"name": "BB Row", "weeks": ["3x6", "3x8", "4x6", "4x8", "5x6", "3x6"]},
         {"name": "Face Pulls", "weeks": ["3x12", "3x15", "4x12", "4x15", "5x12", "3x12"]},
-        {"name": "Hip Thrust", "weeks": ["3x10", "3x12", "4x10", "4x12", "5x10", "3x10"]},
-        {"name": "Hanging Leg Raise", "weeks": ["3x10", "3x12", "4x10", "4x12", "5x10", "3x10"]}
+        {"name": "Landmine Rotations", "weeks": ["3x10", "3x12", "4x10", "4x12", "4x15", "2x10"]}
       ]
     },
     {
@@ -31,24 +29,23 @@
       "exercises": [
         {"name": "Back Extensions", "weeks": ["3x10", "3x10", "3x10", "3x10", "3x10", "3x10"]},
         {"name": "OHP", "weeks": ["3x5", "3x6", "4x5", "4x6", "5x5", "3x5"]},
-        {"name": "Volume Squat", "weeks": ["3x8", "3x10", "4x8", "4x10", "4x12", "2x10"]},
+        {"name": "Bulgarian Split Squat", "weeks": ["3x8", "3x10", "4x8", "4x10", "4x12", "2x10"]},
         {"name": "RDL", "weeks": ["3x8", "3x10", "4x8", "4x10", "4x12", "2x10"]},
-        {"name": "Pull-Ups", "weeks": ["3x5", "3x6", "4x5", "4x6", "5x5", "3x5"]},
-        {"name": "Flyes", "weeks": ["3x12", "3x15", "4x12", "4x15", "5x12", "3x12"]},
-        {"name": "BB Curl", "weeks": ["3x10", "3x12", "4x10", "4x12", "4x15", "2x12"]},
-        {"name": "Abs", "weeks": ["3x15", "3x15", "4x15", "4x15", "5x15", "3x15"]}
+        {"name": "DB Row", "weeks": ["3x12", "3x15", "4x12", "4x15", "5x12", "3x12"]},
+        {"name": "Pallof Press", "weeks": ["3x12", "3x12", "4x12", "4x12", "5x12", "3x12"]},
+        {"name": "Hammer Curls", "weeks": ["3x10", "3x12", "4x10", "4x12", "4x15", "2x12"]}
       ]
     },
     {
       "name": "Day 4 - Friday (Detail)",
       "exercises": [
         {"name": "Back Extensions", "weeks": ["3x10", "3x10", "3x10", "3x10", "3x10", "3x10"]},
+        {"name": "Goblet Squat", "weeks": ["3x12", "3x15", "4x12", "4x15", "4x18", "2x12"]},
         {"name": "Incline Bench", "weeks": ["3x8", "3x10", "4x8", "4x10", "5x8", "3x8"]},
-        {"name": "Bulgarian Split Squat", "weeks": ["3x8", "3x10", "4x8", "4x10", "4x12", "2x10"]},
-        {"name": "Pull Machine", "weeks": ["3x10", "3x12", "4x10", "4x12", "5x10", "3x10"]},
-        {"name": "Rear Delt Fly", "weeks": ["3x12", "3x15", "4x12", "4x15", "5x12", "3x12"]},
-        {"name": "Tricep Pushdown", "weeks": ["3x10", "3x12", "4x10", "4x12", "4x15", "2x12"]},
-        {"name": "Decline Sit-Ups", "weeks": ["3x12", "3x15", "4x12", "4x15", "5x12", "3x12"]}
+        {"name": "Lat Pulldown", "weeks": ["3x10", "3x12", "4x10", "4x12", "5x10", "3x10"]},
+        {"name": "Lateral Raises", "weeks": ["3x12", "3x15", "4x12", "4x15", "5x12", "3x12"]},
+        {"name": "Calf Raises", "weeks": ["3x15", "3x18", "4x15", "4x18", "4x20", "2x15"]},
+        {"name": "Wrist Curls", "weeks": ["3x15", "3x18", "4x15", "4x18", "4x20", "2x15"]}
       ]
     }
   ]
