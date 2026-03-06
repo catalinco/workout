@@ -6,7 +6,7 @@
         {"name": "Back Extensions", "weeks": ["3x10", "3x10", "3x10", "3x10", "3x10", "3x10"]},
         {"name": "Low Bar Squat", "weeks": ["3x5", "3x5", "4x5", "4x5", "5x5", "3x5"]},
         {"name": "Bench Press", "weeks": ["3x6", "3x8", "4x6", "4x8", "5x6", "3x6"]},
-        {"name": "Power Cleans", "weeks": ["3x3", "3x4", "4x3", "4x4", "5x3", "3x3"]},
+        {"name": "Power Cleans", "weeks": ["3x8", "3x10", "4x8", "4x10", "5x8", "3x8"]},
         {"name": "Pull-Ups", "weeks": ["3x5", "3x6", "4x5", "4x6", "5x5", "3x5"]},
         {"name": "Farmers Carries", "weeks": ["3x40m", "3x40m", "3x40m", "3x40m", "3x40m", "3x40m"]},
         {"name": "Abs", "weeks": ["3x15", "3x15", "3x15", "3x15", "3x15", "3x15"]},
