@@ -2,7 +2,7 @@ let program;
 let week = +(localStorage.getItem('week') || 0);
 let day = +(localStorage.getItem('day') || 0);
 
-fetch('program.json')
+fetch('program.json?v=' + Date.now())
   .then(r => r.json())
   .then(data => { program = data; render(); });
 
