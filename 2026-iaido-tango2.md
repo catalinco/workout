@@ -24,7 +24,7 @@
 | Back Extensions      | 3x10 | 3x10 | 3x10 | 3x10 | 3x10 | 3x10 |
 | Low Bar Squat        | 3x5  | 3x6  | 4x5  | 4x6  | 5x5  | 3x5  |
 | Bench Press          | 3x6  | 3x8  | 4x6  | 4x8  | 5x6  | 3x6  |
-| Kettlebell Swings    | 3x15 | 3x18 | 4x15 | 4x18 | 4x20 | 2x15 |
+| Power Cleans         | 3x15 | 3x18 | 4x15 | 4x18 | 4x20 | 2x15 |
 | Pull-Ups             | 3x5  | 3x6  | 4x5  | 4x6  | 5x5  | 3x5  |
 | Farmers Carries      | 3x40m| 3x40m| 4x40m| 4x40m| 5x40m| 3x40m|
 | Abs                  | 3x15 | 3x15 | 4x15 | 4x15 | 5x15 | 3x15 |
@@ -37,7 +37,7 @@
 |----------------------|------|------|------|------|------|------|
 | Back Extensions      | 3x10 | 3x10 | 3x10 | 3x10 | 3x10 | 3x10 |
 | Deadlift             | 3x5  | 3x6  | 4x5  | 4x6  | 5x5  | 3x5  |
-| Leg Curls            | 3x10 | 3x12 | 4x10 | 4x12 | 5x10 | 3x10 |
+| Walking Lunges       | 3x10 | 3x12 | 4x10 | 4x12 | 5x10 | 3x10 |
 | Incline DB Press     | 3x8  | 3x10 | 4x8  | 4x10 | 5x8  | 3x8  |
 | BB Row               | 3x6  | 3x8  | 4x6  | 4x8  | 5x6  | 3x6  |
 | Face Pulls           | 3x12 | 3x15 | 4x12 | 4x15 | 5x12 | 3x12 |
@@ -81,7 +81,7 @@
 - Back extensions as warm-up every session
 
 ### Iaido Benefits
-- **Kettlebell Swings:** Explosive hip hinge for Nukitsuke (draw)
+- **Power Cleans:** Explosive hip hinge for Nukitsuke (draw)
 - **Farmers Carries / Wrist Curls:** Grip strength for Tenouchi (sword grip)
 - **Landmine Rotations:** Core rotational power for the cut
 - **Pallof Press:** Anti-rotational stability

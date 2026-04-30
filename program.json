@@ -6,11 +6,10 @@
         {"name": "Back Extensions", "weeks": ["3x10", "3x10", "3x10", "3x10", "3x10", "3x10"]},
         {"name": "Low Bar Squat", "weeks": ["3x5", "3x5", "4x5", "4x5", "5x5", "3x5"]},
         {"name": "Bench Press", "weeks": ["3x6", "3x8", "4x6", "4x8", "5x6", "3x6"]},
-        {"name": "Power Cleans", "weeks": ["3x8", "3x10", "4x8", "4x10", "5x8", "3x8"]},
+        {"name": "Power Cleans", "weeks": ["3x3", "3x4", "4x3", "4x4", "5x3", "3x3"]},
         {"name": "Pull-Ups", "weeks": ["3x5", "3x6", "4x5", "4x6", "5x5", "3x5"]},
         {"name": "Farmers Carries", "weeks": ["3x40m", "3x40m", "3x40m", "3x40m", "3x40m", "3x40m"]},
-        {"name": "Abs", "weeks": ["3x15", "3x15", "3x15", "3x15", "3x15", "3x15"]},
-        {"name": "Wrist Curls", "weeks": ["3x15", "3x18", "3x15", "3x18", "3x20", "2x15"]}
+        {"name": "Abs", "weeks": ["3x15", "3x15", "3x15", "3x15", "3x15", "3x15"]}
       ]
     },
     {
@@ -22,12 +21,11 @@
         {"name": "Incline DB Press", "weeks": ["3x8", "3x10", "4x8", "4x10", "5x8", "3x8"]},
         {"name": "BB Row", "weeks": ["3x6", "3x8", "4x6", "4x8", "5x6", "3x6"]},
         {"name": "Face Pulls", "weeks": ["3x12", "3x15", "3x12", "3x15", "3x12", "3x12"]},
-        {"name": "Landmine Rotations", "weeks": ["3x10", "3x12", "3x10", "3x12", "3x15", "2x10"]},
-        {"name": "Calf Raises", "weeks": ["3x15", "3x18", "3x15", "3x18", "3x20", "2x15"]}
+        {"name": "Wind Mils", "weeks": ["3x10", "3x12", "3x10", "3x12", "3x15", "2x10"]}
       ]
     },
     {
-      "name": "Day 3 - Thursday (Capacity)",
+      "name": "Day 3 - Friday (Capacity)",
       "exercises": [
         {"name": "Back Extensions", "weeks": ["3x10", "3x10", "3x10", "3x10", "3x10", "3x10"]},
         {"name": "OHP", "weeks": ["3x5", "3x5", "4x5", "4x5", "5x5", "3x5"]},

@@ -1,6 +1,8 @@
 let program;
 let week = +(localStorage.getItem('week') || 0);
-let day = +(localStorage.getItem('day') || 0);
+const dayMap = {1: 0, 3: 1, 5: 2};
+const dow = new Date().getDay();
+let day = dow in dayMap ? dayMap[dow] : +(localStorage.getItem('day') || 0);
 
 fetch('program.json?v=' + Date.now())
   .then(r => r.json())
@@ -22,7 +24,7 @@ function render() {
   localStorage.setItem('week', week);
   localStorage.setItem('day', day);
   document.getElementById('weekText').textContent = `Week ${week + 1}`;
-  document.getElementById('dayText').textContent = program.days[day].name;
+  document.getElementById('dayText').textContent = `Day ${day + 1}`;
   document.getElementById('exercises').innerHTML = program.days[day].exercises
     .map((e, i) => { const [s,r] = e.weeks[week].split('x'); const key = `${day}-${week}-${i}`; const checked = localStorage.getItem(key) === '1'; return `<tr class="${checked ? 'table-success' : ''}"><td>${e.name}</td><td>${s}</td><td>${r}</td><td><input type="checkbox" class="form-check-input" ${checked ? 'checked' : ''} onchange="toggle(${i}, this.checked)"></td></tr>`; }).join('');
 }
