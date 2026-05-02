@@ -64,10 +64,6 @@ function render() {
   if (week >= maxWeeks) week = maxWeeks - 1;
   if (day >= maxDays) day = maxDays - 1;
 
-  // Program name
-  const prog = programs.find(p => p.file === currentFile);
-  document.getElementById('programName').textContent = prog ? prog.name : '';
-
   // Nav labels
   document.getElementById('weekText').textContent = `Week ${week + 1}`;
   const dayName = (program.days[day]?.name || `Day ${day + 1}`).replace(/ - (Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday) /, ' - ').replace(/[()]/g, '');
@@ -81,21 +77,15 @@ function render() {
 
   // Exercises
   const exercises = program.days[day].exercises;
-  let done = 0, total = 0;
   const rows = exercises.map((e, i) => {
     const val = e.weeks[week];
     if (val === '-') return `<tr class="rest-row"><td>${e.name}</td><td colspan="2">Rest</td><td></td></tr>`;
     const [s, r] = val.split('x');
     const key = `${currentFile}-${day}-${week}-${i}`;
     const checked = localStorage.getItem(key) === '1';
-    total++;
-    if (checked) done++;
     return `<tr class="${checked ? 'table-success' : ''}"><td>${e.name}</td><td>${s}</td><td>${r}</td><td><input type="checkbox" class="form-check-input" ${checked ? 'checked' : ''} onchange="toggle(${i}, this.checked)"></td></tr>`;
   }).join('');
   document.getElementById('exercises').innerHTML = rows;
-
-  // Progress badge
-  document.getElementById('progress').textContent = total > 0 ? `${done}/${total}` : '';
 }
 
 function confirmReset() {
