@@ -1,0 +1,37 @@
+{
+  "days": [
+    {
+      "name": "Day 1 - Monday (Explosive Strength)",
+      "exercises": [
+        {"name": "Back Extensions", "weeks": ["3x10", "3x10", "3x10", "2x10"]},
+        {"name": "Low Bar Squat", "weeks": ["4x3", "4x3", "3x3", "2x3"]},
+        {"name": "Bench Press", "weeks": ["3x5", "3x5", "3x3", "2x3"]},
+        {"name": "Power Cleans", "weeks": ["5x2", "4x2", "3x2", "2x2"]},
+        {"name": "Pull-Ups", "weeks": ["3x5", "3x5", "3x3", "2x3"]},
+        {"name": "Farmers Carries", "weeks": ["3x40m", "3x40m", "2x30m", "2x30m"]}
+      ]
+    },
+    {
+      "name": "Day 2 - Wednesday (Movement Quality)",
+      "exercises": [
+        {"name": "Back Extensions", "weeks": ["3x10", "3x10", "3x10", "2x10"]},
+        {"name": "Deadlift", "weeks": ["3x3", "3x3", "3x2", "2x2"]},
+        {"name": "Walking Lunges", "weeks": ["3x8", "3x8", "2x8", "2x6"]},
+        {"name": "BB Row", "weeks": ["3x6", "3x6", "3x5", "2x5"]},
+        {"name": "Face Pulls", "weeks": ["3x12", "3x12", "3x12", "2x10"]},
+        {"name": "Pallof Press", "weeks": ["3x10", "3x10", "2x10", "2x8"]}
+      ]
+    },
+    {
+      "name": "Day 3 - Thursday (Iaido-Specific Power)",
+      "exercises": [
+        {"name": "Back Extensions", "weeks": ["3x10", "3x10", "2x10", "-"]},
+        {"name": "OHP", "weeks": ["3x3", "3x3", "3x3", "-"]},
+        {"name": "RDL", "weeks": ["3x5", "3x5", "3x5", "-"]},
+        {"name": "Power Cleans", "weeks": ["4x2", "3x2", "3x2", "-"]},
+        {"name": "Pallof Press", "weeks": ["3x10", "3x10", "2x10", "-"]},
+        {"name": "Farmers Carries", "weeks": ["2x40m", "2x40m", "2x30m", "-"]}
+      ]
+    }
+  ]
+}
