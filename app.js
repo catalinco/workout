@@ -20,7 +20,7 @@ fetch('programs.json?v=' + Date.now())
 
 function renderProgramList() {
   document.getElementById('programList').innerHTML = programs.map(p =>
-    `<button class="list-group-item list-group-item-action ${p.file === pendingFile ? 'active' : ''}" onclick="selectProgram('${p.file}')">${p.name}</button>`
+    `<button class="list-group-item list-group-item-action ${p.file === pendingFile ? 'list-group-item-dark' : ''}" onclick="selectProgram('${p.file}')">${p.name}</button>`
   ).join('');
 }
 
@@ -71,7 +71,8 @@ function render() {
 }
 
 function resetProgress() {
-  Object.keys(localStorage).filter(k => k.startsWith(currentFile + '-')).forEach(k => localStorage.removeItem(k));
+  const target = pendingFile || currentFile;
+  Object.keys(localStorage).filter(k => k.startsWith(target + '-')).forEach(k => localStorage.removeItem(k));
   bootstrap.Modal.getInstance(document.getElementById('settingsModal')).hide();
   render();
 }
