@@ -6,15 +6,33 @@ const dayMap = {1: 0, 3: 1, 5: 2};
 const dow = new Date().getDay();
 let day = dow in dayMap ? dayMap[dow] : +(localStorage.getItem('day') || 0);
 
+let pendingFile = null;
+
 fetch('programs.json?v=' + Date.now())
   .then(r => r.json())
   .then(list => {
     programs = list;
     if (!currentFile || !list.find(p => p.file === currentFile)) currentFile = list[0].file;
-    const sel = document.getElementById('programSelect');
-    sel.innerHTML = list.map(p => `<option value="${p.file}" ${p.file === currentFile ? 'selected' : ''}>${p.name}</option>`).join('');
+    pendingFile = currentFile;
+    renderProgramList();
     loadProgram(currentFile);
   });
+
+function renderProgramList() {
+  document.getElementById('programList').innerHTML = programs.map(p =>
+    `<button class="list-group-item list-group-item-action ${p.file === pendingFile ? 'active' : ''}" onclick="selectProgram('${p.file}')">${p.name}</button>`
+  ).join('');
+}
+
+function selectProgram(file) {
+  pendingFile = file;
+  renderProgramList();
+}
+
+function confirmProgram() {
+  loadProgram(pendingFile);
+  bootstrap.Modal.getInstance(document.getElementById('settingsModal')).hide();
+}
 
 function loadProgram(file) {
   currentFile = file;
@@ -24,9 +42,7 @@ function loadProgram(file) {
     .then(data => { program = data; render(); });
 }
 
-function selectProgram(file) {
-  loadProgram(file);
-}
+document.getElementById('settingsModal').addEventListener('show.bs.modal', () => { pendingFile = currentFile; renderProgramList(); });
 
 function change(type, delta) {
   if (type === 'week') week = Math.max(0, Math.min((program?.days[0]?.exercises[0]?.weeks.length || 6) - 1, week + delta));
