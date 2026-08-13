@@ -1,0 +1,37 @@
+{
+  "days": [
+    {
+      "name": "Day 1 - Monday",
+      "exercises": [
+        {"name": "Back Extensions", "weeks": ["3x10", "3x10", "3x10", "3x10", "3x10", "3x10"]},
+        {"name": "Deadlift", "weeks": ["3x5", "3x5", "3x5", "3x5", "3x5", "3x5"]},
+        {"name": "Incline Press", "weeks": ["4x10", "4x10", "4x10", "4x10", "4x10", "4x10"]},
+        {"name": "Volume Squat", "weeks": ["3x10", "3x10", "3x10", "3x10", "3x10", "3x10"]},
+        {"name": "Pull-Ups Vertical", "weeks": ["4x10", "4x10", "4x10", "4x10", "4x10", "4x10"]},
+        {"name": "Triceps Pulldown", "weeks": ["3x12", "3x12", "3x12", "3x12", "3x12", "3x12"]}
+      ]
+    },
+    {
+      "name": "Day 2 - Wednesday",
+      "exercises": [
+        {"name": "Back Extensions", "weeks": ["3x10", "3x10", "3x10", "3x10", "3x10", "3x10"]},
+        {"name": "OHP", "weeks": ["3x5", "3x5", "3x5", "3x5", "3x5", "3x5"]},
+        {"name": "Pec Deck", "weeks": ["4x10", "4x10", "4x10", "4x10", "4x10", "4x10"]},
+        {"name": "RDL", "weeks": ["3x10", "3x10", "3x10", "3x10", "3x10", "3x10"]},
+        {"name": "Prayer Pulldowns", "weeks": ["4x10", "4x10", "4x10", "4x10", "4x10", "4x10"]},
+        {"name": "Walking Lunges", "weeks": ["3x12", "3x12", "3x12", "3x12", "3x12", "3x12"]}
+      ]
+    },
+    {
+      "name": "Day 3 - Friday",
+      "exercises": [
+        {"name": "Back Extensions", "weeks": ["3x10", "3x10", "3x10", "3x10", "3x10", "3x10"]},
+        {"name": "Squat", "weeks": ["3x5", "3x5", "3x5", "3x5", "3x5", "3x5"]},
+        {"name": "Flat DB Press", "weeks": ["4x10", "4x10", "4x10", "4x10", "4x10", "4x10"]},
+        {"name": "Dips", "weeks": ["3x10", "3x10", "3x10", "3x10", "3x10", "3x10"]},
+        {"name": "Rows", "weeks": ["4x10", "4x10", "4x10", "4x10", "4x10", "4x10"]},
+        {"name": "Lu Raises", "weeks": ["3x12", "3x12", "3x12", "3x12", "3x12", "3x12"]}
+      ]
+    }
+  ]
+}

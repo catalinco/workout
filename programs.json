@@ -1,5 +1,6 @@
 [
   {"file": "programs/iaido-tango2-3day.json", "name": "Iaido & Tango 3-Day"},
   {"file": "programs/4days.json", "name": "4-Day Program"},
-  {"file": "programs/iaido-comp-peak-4week.json", "name": "Iaido Competition Peak 4-Week"}
+  {"file": "programs/iaido-comp-peak-4week.json", "name": "Iaido Competition Peak 4-Week"},
+  {"file": "programs/basic-3day.json", "name": "Basic 3-Day"}
 ]
