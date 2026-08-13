@@ -80,7 +80,7 @@
 - **W1:** Increase weight ~5-10% above cycle 2 working weights (lower reps allow this)
 - **W2:** Same weight as W1, fewer sets
 - **W3:** Drop weight to ~90% of W1, minimal volume — you should feel sharp, not tired
-- **W4:** No lifting. Trust the taper.
+- **W4:** Light weights (~80-85%), keep sessions short and crisp. Friday is travel day — no training.
 
 ## Notes
 
