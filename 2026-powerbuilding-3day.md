@@ -121,7 +121,7 @@ Aim for gym sessions of about 60 minutes, allowing longer when warm-ups or full 
 | Incline DB Press | 2x8 | 2x8 | 2x8 | 1x6 |
 | Pull-Ups or Lat Pulldown | 2x8 | 2x8 | 2x8 | 1x6 |
 | Triceps Pushdown | 2x12 | 2x12 | 2x12 | 1x10 |
-| Cable Glute Kickback | 2x15 per leg | 2x15 per leg | 2x15 per leg | 1x13 per leg |
+| Glute Kickback Machine | 2x15 per leg | 2x15 per leg | 2x15 per leg | 1x13 per leg |
 
 ### Day 2 - Wednesday (OHP & Accessories)
 
