@@ -3,5 +3,6 @@
   {"file": "programs/4days.json", "name": "4-Day Program"},
   {"file": "programs/iaido-comp-peak-4week.json", "name": "Iaido Competition Peak 4-Week"},
   {"file": "programs/basic-3day.json", "name": "Basic 3-Day"},
-  {"file": "programs/strength-3day.json", "name": "Strength 3-Day"}
+  {"file": "programs/strength-3day.json", "name": "Strength 3-Day"},
+  {"file": "programs/powerbuilding-3day.json", "name": "Powerbuilding 3-Day — 12 Weeks (Back / Chest / Glutes)"}
 ]
