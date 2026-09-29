@@ -50,7 +50,7 @@ Aim for gym sessions of about 60 minutes, allowing longer when warm-ups or full 
 
 | Exercise | Week 1 | Week 2 | Week 3 | Week 4 — deload |
 | --- | --- | --- | --- | --- |
-| Deadlift | 2x5 | 3x3 | 2x6 | 1x3 |
+| Deadlift | 3x5 | 4x4 | 3x5 | 2x3 |
 | Incline DB Press | 2x8 | 2x8 | 2x8 | 1x6 |
 | Pull-Ups or Lat Pulldown | 4x8 | 4x6 | 4x10 | 2x6 |
 | Light Back Squat | 2x6 | 2x6 | 2x6 | 1x4 |
@@ -60,7 +60,7 @@ Aim for gym sessions of about 60 minutes, allowing longer when warm-ups or full 
 
 | Exercise | Week 1 | Week 2 | Week 3 | Week 4 — deload |
 | --- | --- | --- | --- | --- |
-| Overhead Press | 3x5 | 4x4 | 3x6 | 2x3 |
+| Overhead Press | 3x5 | 4x4 | 3x5 | 2x3 |
 | Chest-Supported Row | 4x10 | 4x8 | 4x12 | 2x8 |
 | Bulgarian Split Squat | 2x8 per leg | 2x8 per leg | 2x8 per leg | 1x6 per leg |
 | Lateral Raise | 2x15 | 2x15 | 2x15 | 1x13 |
@@ -71,7 +71,7 @@ Aim for gym sessions of about 60 minutes, allowing longer when warm-ups or full 
 
 | Exercise | Week 1 | Week 2 | Week 3 | Week 4 — deload |
 | --- | --- | --- | --- | --- |
-| Back Squat | 3x5 | 4x4 | 3x6 | 2x3 |
+| Back Squat | 3x5 | 4x4 | 3x5 | 2x3 |
 | Flat DB Press | 2x10 | 2x10 | 2x10 | 1x8 |
 | Romanian Deadlift | 2x8 | 2x8 | 2x8 | 1x6 |
 | Pull-Ups or Lat Pulldown | 4x10 | 4x8 | 4x12 | 2x8 |
@@ -83,7 +83,7 @@ Aim for gym sessions of about 60 minutes, allowing longer when warm-ups or full 
 
 | Exercise | Week 5 | Week 6 | Week 7 | Week 8 — deload |
 | --- | --- | --- | --- | --- |
-| Deadlift | 2x5 | 3x3 | 2x6 | 1x3 |
+| Deadlift | 3x5 | 4x4 | 3x5 | 2x3 |
 | Incline DB Press | 4x8 | 4x6 | 4x10 | 2x6 |
 | Pull-Ups or Lat Pulldown | 2x8 | 2x8 | 2x8 | 1x6 |
 | Light Back Squat | 2x6 | 2x6 | 2x6 | 1x4 |
@@ -93,7 +93,7 @@ Aim for gym sessions of about 60 minutes, allowing longer when warm-ups or full 
 
 | Exercise | Week 5 | Week 6 | Week 7 | Week 8 — deload |
 | --- | --- | --- | --- | --- |
-| Overhead Press | 3x5 | 4x4 | 3x6 | 2x3 |
+| Overhead Press | 3x5 | 4x4 | 3x5 | 2x3 |
 | Chest-Supported Row | 2x10 | 2x10 | 2x10 | 1x8 |
 | Bulgarian Split Squat | 2x8 per leg | 2x8 per leg | 2x8 per leg | 1x6 per leg |
 | Pec Deck | 3x12 | 3x10 | 3x14 | 2x10 |
@@ -105,7 +105,7 @@ Aim for gym sessions of about 60 minutes, allowing longer when warm-ups or full 
 
 | Exercise | Week 5 | Week 6 | Week 7 | Week 8 — deload |
 | --- | --- | --- | --- | --- |
-| Back Squat | 3x5 | 4x4 | 3x6 | 2x3 |
+| Back Squat | 3x5 | 4x4 | 3x5 | 2x3 |
 | Flat DB Press | 4x10 | 4x8 | 4x12 | 2x8 |
 | Romanian Deadlift | 2x8 | 2x8 | 2x8 | 1x6 |
 | Pull-Ups or Lat Pulldown | 2x10 | 2x10 | 2x10 | 1x8 |
@@ -117,7 +117,7 @@ Aim for gym sessions of about 60 minutes, allowing longer when warm-ups or full 
 
 | Exercise | Week 9 | Week 10 | Week 11 | Week 12 — deload |
 | --- | --- | --- | --- | --- |
-| Deadlift | 2x5 | 3x3 | 2x6 | 1x3 |
+| Deadlift | 3x5 | 4x4 | 3x5 | 2x3 |
 | Incline DB Press | 2x8 | 2x8 | 2x8 | 1x6 |
 | Pull-Ups or Lat Pulldown | 2x8 | 2x8 | 2x8 | 1x6 |
 | Triceps Pushdown | 2x12 | 2x12 | 2x12 | 1x10 |
@@ -127,7 +127,7 @@ Aim for gym sessions of about 60 minutes, allowing longer when warm-ups or full 
 
 | Exercise | Week 9 | Week 10 | Week 11 | Week 12 — deload |
 | --- | --- | --- | --- | --- |
-| Overhead Press | 3x5 | 4x4 | 3x6 | 2x3 |
+| Overhead Press | 3x5 | 4x4 | 3x5 | 2x3 |
 | Chest-Supported Row | 2x10 | 2x10 | 2x10 | 1x8 |
 | Bulgarian Split Squat | 2x8 per leg | 2x8 per leg | 2x8 per leg | 1x6 per leg |
 | Lateral Raise | 2x15 | 2x15 | 2x15 | 1x13 |
@@ -139,7 +139,7 @@ Aim for gym sessions of about 60 minutes, allowing longer when warm-ups or full 
 
 | Exercise | Week 9 | Week 10 | Week 11 | Week 12 — deload |
 | --- | --- | --- | --- | --- |
-| Back Squat | 3x5 | 4x4 | 3x6 | 2x3 |
+| Back Squat | 3x5 | 4x4 | 3x5 | 2x3 |
 | Flat DB Press | 2x10 | 2x10 | 2x10 | 1x8 |
 | Romanian Deadlift | 2x8 | 2x8 | 2x8 | 1x6 |
 | Pull-Ups or Lat Pulldown | 2x10 | 2x10 | 2x10 | 1x8 |
@@ -149,14 +149,14 @@ Aim for gym sessions of about 60 minutes, allowing longer when warm-ups or full 
 
 Keep each exercise's working weight unchanged within its four-week block, including the lighter week. Each exercise/day slot can have its own load; Monday and Friday pulling need not use the same load. All working sets within a slot use that load. Preparation sets use lighter weights.
 
-- Main squat and overhead press: **3x5, 4x4, 3x6, 2x3** across each block.
-- Deadlift: **2x5, 3x3, 2x6, 1x3**.
+- First exercise each day (deadlift, overhead press, back squat): **3x5, 4x4, 3x5, 2x3** across each block.
+- The main-lift baseline is 3x5. Week 2 spreads 16 total reps across four shorter sets; Week 3 returns to 15 reps in three sets. This is a small workload variation, not an automatic weekly increase. Week 4 reduces work to six reps. Compare control and effort between Weeks 1 and 3 before considering a load increase for the next block.
 - Priority accessories vary exact reps as shown in the tables, with no extra working sets. The second week uses shorter sets, the third week longer sets, and the fourth week less work.
 - Supporting accessories keep their working-week sets and reps steady. The lighter week reduces their sets and reps.
 
 ### Choosing the weight and effort
 
-Select the load with the third week's longest sets in mind. On the final set of that week, leave at least two clean reps available on main lifts, presses, rows, and pulldowns. Leave three on Bulgarian split squats, RDLs, and hip thrusts, and four on light squats. Earlier weeks may feel easier; do not increase weight to make every week equally hard. Keep two reps available on isolation work and Pallof presses.
+For the main lifts, select a load that permits all three sets of five with at least two clean reps available on the last set, and maintain that reserve during Week 2's four sets of four. For priority accessories, choose the load with Week 3's longest sets in mind and leave at least two clean reps available on presses, rows, and pulldowns. Leave three on Bulgarian split squats, RDLs, and hip thrusts, and four on light squats. Earlier weeks may feel easier; do not increase weight to make every week equally hard. Keep two reps available on isolation work and Pallof presses. Deadlift volume is higher than in the previous version; choose its starting load conservatively so the third set stays controlled and evening practice is unaffected.
 
 If Bulgarian split squats are unfamiliar, start conservatively and choose their load independently of the old lunge load. The fixed-weight rule is a plan, not a reason to force missed reps: reduce weight if technique or the intended reserve cannot be maintained. Do not compensate with extra reps or sets.
 
