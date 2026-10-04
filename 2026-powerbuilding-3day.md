@@ -17,6 +17,8 @@ Deadlift, overhead press, and squat remain the main strength lifts throughout. A
 
 Working-week direct back volume is 12 sets in Month 1 and 6 in Months 2 and 3, counting rows and vertical pulls. Straight-arm pulldowns are omitted. Direct chest volume remains 4, 11, and 4 sets respectively. Month 3 keeps three Wednesday hip-thrust sets and two Monday kickback sets; Friday hip thrusts are omitted. These glute accessories are in addition to squats, deadlifts, RDLs, and Bulgarian split squats. Monday light squats remain omitted in Month 3.
 
+Farmer's walks are added at the end of Friday's session, once weekly. They add grip and loaded-carry work; they are not included in the direct back-set totals above.
+
 Accessory set counts stay stable during each month's first three weeks. Only the priority accessories vary reps, while main lifts vary both sets and reps. This avoids increasing every accessory's workload at once.
 
 ## Weekly schedule
@@ -51,20 +53,20 @@ Aim for gym sessions of about 60 minutes, allowing longer when warm-ups or full 
 | Exercise | Week 1 | Week 2 | Week 3 | Week 4 — deload |
 | --- | --- | --- | --- | --- |
 | Deadlift | 3x5 | 4x4 | 3x5 | 2x3 |
-| Incline DB Press | 2x8 | 2x8 | 2x8 | 1x6 |
-| Pull-Ups or Lat Pulldown | 4x8 | 4x6 | 4x10 | 2x6 |
+| Incline DB Press | 2x12 | 2x12 | 2x12 | 1x8 |
+| Pull-Ups or Lat Pulldown | 4x12 | 4x10 | 4x15 | 2x8 |
 | Light Back Squat | 2x6 | 2x6 | 2x6 | 1x4 |
-| Triceps Pushdown | 2x12 | 2x12 | 2x12 | 1x10 |
+| Triceps Pushdown | 2x15 | 2x15 | 2x15 | 1x10 |
 
 ### Day 2 - Wednesday (OHP & Accessories)
 
 | Exercise | Week 1 | Week 2 | Week 3 | Week 4 — deload |
 | --- | --- | --- | --- | --- |
 | Overhead Press | 3x5 | 4x4 | 3x5 | 2x3 |
-| Chest-Supported Row | 4x10 | 4x8 | 4x12 | 2x8 |
-| Bulgarian Split Squat | 2x8 per leg | 2x8 per leg | 2x8 per leg | 1x6 per leg |
-| Lateral Raise | 2x15 | 2x15 | 2x15 | 1x13 |
-| DB Curl | 2x12 | 2x12 | 2x12 | 1x10 |
+| Chest-Supported Row | 4x12 | 4x10 | 4x15 | 2x8 |
+| Bulgarian Split Squat | 2x10 per leg | 2x10 per leg | 2x10 per leg | 1x6 per leg |
+| Lateral Raise | 2x20 | 2x20 | 2x20 | 1x12 |
+| DB Curl | 2x15 | 2x15 | 2x15 | 1x10 |
 | Pallof Press | 2x12 per side | 2x12 per side | 2x12 per side | 1x10 per side |
 
 ### Day 3 - Friday (Squat & Full Body)
@@ -72,10 +74,11 @@ Aim for gym sessions of about 60 minutes, allowing longer when warm-ups or full 
 | Exercise | Week 1 | Week 2 | Week 3 | Week 4 — deload |
 | --- | --- | --- | --- | --- |
 | Back Squat | 3x5 | 4x4 | 3x5 | 2x3 |
-| Flat DB Press | 2x10 | 2x10 | 2x10 | 1x8 |
-| Romanian Deadlift | 2x8 | 2x8 | 2x8 | 1x6 |
-| Pull-Ups or Lat Pulldown | 4x10 | 4x8 | 4x12 | 2x8 |
-| Rear-Delt Fly | 2x15 | 2x15 | 2x15 | 1x13 |
+| Flat DB Press | 2x12 | 2x12 | 2x12 | 1x8 |
+| Romanian Deadlift | 2x10 | 2x10 | 2x10 | 1x6 |
+| Pull-Ups or Lat Pulldown | 4x12 | 4x10 | 4x15 | 2x8 |
+| Rear-Delt Fly | 2x20 | 2x20 | 2x20 | 1x12 |
+| Farmer's Walk | 2x30 m | 2x30 m | 2x40 m | 1x20 m |
 
 ## Month 2 — Chest emphasis (Weeks 5–8)
 
@@ -84,21 +87,21 @@ Aim for gym sessions of about 60 minutes, allowing longer when warm-ups or full 
 | Exercise | Week 5 | Week 6 | Week 7 | Week 8 — deload |
 | --- | --- | --- | --- | --- |
 | Deadlift | 3x5 | 4x4 | 3x5 | 2x3 |
-| Incline DB Press | 4x8 | 4x6 | 4x10 | 2x6 |
-| Pull-Ups or Lat Pulldown | 2x8 | 2x8 | 2x8 | 1x6 |
+| Incline DB Press | 4x12 | 4x10 | 4x15 | 2x8 |
+| Pull-Ups or Lat Pulldown | 2x12 | 2x12 | 2x12 | 1x8 |
 | Light Back Squat | 2x6 | 2x6 | 2x6 | 1x4 |
-| Triceps Pushdown | 1x12 | 1x12 | 1x12 | 1x10 |
+| Triceps Pushdown | 1x15 | 1x15 | 1x15 | 1x10 |
 
 ### Day 2 - Wednesday (OHP & Accessories)
 
 | Exercise | Week 5 | Week 6 | Week 7 | Week 8 — deload |
 | --- | --- | --- | --- | --- |
 | Overhead Press | 3x5 | 4x4 | 3x5 | 2x3 |
-| Chest-Supported Row | 2x10 | 2x10 | 2x10 | 1x8 |
-| Bulgarian Split Squat | 2x8 per leg | 2x8 per leg | 2x8 per leg | 1x6 per leg |
-| Pec Deck | 3x12 | 3x10 | 3x14 | 2x10 |
-| Lateral Raise | 2x15 | 2x15 | 2x15 | 1x13 |
-| DB Curl | 2x12 | 2x12 | 2x12 | 1x10 |
+| Chest-Supported Row | 2x12 | 2x12 | 2x12 | 1x8 |
+| Bulgarian Split Squat | 2x10 per leg | 2x10 per leg | 2x10 per leg | 1x6 per leg |
+| Pec Deck | 3x15 | 3x12 | 3x18 | 2x10 |
+| Lateral Raise | 2x20 | 2x20 | 2x20 | 1x12 |
+| DB Curl | 2x15 | 2x15 | 2x15 | 1x10 |
 | Pallof Press | 2x12 per side | 2x12 per side | 2x12 per side | 1x10 per side |
 
 ### Day 3 - Friday (Squat & Full Body)
@@ -106,10 +109,11 @@ Aim for gym sessions of about 60 minutes, allowing longer when warm-ups or full 
 | Exercise | Week 5 | Week 6 | Week 7 | Week 8 — deload |
 | --- | --- | --- | --- | --- |
 | Back Squat | 3x5 | 4x4 | 3x5 | 2x3 |
-| Flat DB Press | 4x10 | 4x8 | 4x12 | 2x8 |
-| Romanian Deadlift | 2x8 | 2x8 | 2x8 | 1x6 |
-| Pull-Ups or Lat Pulldown | 2x10 | 2x10 | 2x10 | 1x8 |
-| Rear-Delt Fly | 2x15 | 2x15 | 2x15 | 1x13 |
+| Flat DB Press | 4x12 | 4x10 | 4x15 | 2x8 |
+| Romanian Deadlift | 2x10 | 2x10 | 2x10 | 1x6 |
+| Pull-Ups or Lat Pulldown | 2x12 | 2x12 | 2x12 | 1x8 |
+| Rear-Delt Fly | 2x20 | 2x20 | 2x20 | 1x12 |
+| Farmer's Walk | 2x30 m | 2x30 m | 2x40 m | 1x20 m |
 
 ## Month 3 — Glutes emphasis (Weeks 9–12)
 
@@ -118,36 +122,48 @@ Aim for gym sessions of about 60 minutes, allowing longer when warm-ups or full 
 | Exercise | Week 9 | Week 10 | Week 11 | Week 12 — deload |
 | --- | --- | --- | --- | --- |
 | Deadlift | 3x5 | 4x4 | 3x5 | 2x3 |
-| Incline DB Press | 2x8 | 2x8 | 2x8 | 1x6 |
-| Pull-Ups or Lat Pulldown | 2x8 | 2x8 | 2x8 | 1x6 |
-| Triceps Pushdown | 2x12 | 2x12 | 2x12 | 1x10 |
-| Glute Kickback Machine | 2x15 per leg | 2x15 per leg | 2x15 per leg | 1x13 per leg |
+| Incline DB Press | 2x12 | 2x12 | 2x12 | 1x8 |
+| Pull-Ups or Lat Pulldown | 2x12 | 2x12 | 2x12 | 1x8 |
+| Triceps Pushdown | 2x15 | 2x15 | 2x15 | 1x10 |
+| Glute Kickback Machine | 2x20 per leg | 2x20 per leg | 2x20 per leg | 1x12 per leg |
 
 ### Day 2 - Wednesday (OHP & Accessories)
 
 | Exercise | Week 9 | Week 10 | Week 11 | Week 12 — deload |
 | --- | --- | --- | --- | --- |
 | Overhead Press | 3x5 | 4x4 | 3x5 | 2x3 |
-| Chest-Supported Row | 2x10 | 2x10 | 2x10 | 1x8 |
-| Bulgarian Split Squat | 2x8 per leg | 2x8 per leg | 2x8 per leg | 1x6 per leg |
-| Lateral Raise | 2x15 | 2x15 | 2x15 | 1x13 |
-| DB Curl | 2x12 | 2x12 | 2x12 | 1x10 |
+| Chest-Supported Row | 2x12 | 2x12 | 2x12 | 1x8 |
+| Bulgarian Split Squat | 2x10 per leg | 2x10 per leg | 2x10 per leg | 1x6 per leg |
+| Lateral Raise | 2x20 | 2x20 | 2x20 | 1x12 |
+| DB Curl | 2x15 | 2x15 | 2x15 | 1x10 |
 | Pallof Press | 2x12 per side | 2x12 per side | 2x12 per side | 1x10 per side |
-| Hip Thrust | 3x10 | 3x8 | 3x12 | 2x8 |
+| Hip Thrust | 3x12 | 3x10 | 3x15 | 2x8 |
 
 ### Day 3 - Friday (Squat & Full Body)
 
 | Exercise | Week 9 | Week 10 | Week 11 | Week 12 — deload |
 | --- | --- | --- | --- | --- |
 | Back Squat | 3x5 | 4x4 | 3x5 | 2x3 |
-| Flat DB Press | 2x10 | 2x10 | 2x10 | 1x8 |
-| Romanian Deadlift | 2x8 | 2x8 | 2x8 | 1x6 |
-| Pull-Ups or Lat Pulldown | 2x10 | 2x10 | 2x10 | 1x8 |
-| Rear-Delt Fly | 2x15 | 2x15 | 2x15 | 1x13 |
+| Flat DB Press | 2x12 | 2x12 | 2x12 | 1x8 |
+| Romanian Deadlift | 2x10 | 2x10 | 2x10 | 1x6 |
+| Pull-Ups or Lat Pulldown | 2x12 | 2x12 | 2x12 | 1x8 |
+| Rear-Delt Fly | 2x20 | 2x20 | 2x20 | 1x12 |
+| Farmer's Walk | 2x30 m | 2x30 m | 2x40 m | 1x20 m |
+
+## Higher-rep bodybuilding work and farmer's walks
+
+- Priority presses, rows, vertical pulls, and hip thrusts use exact rep targets of **12, 10, 15, 8** across the four weeks. Supporting upper-body compound exercises use **12, 12, 12, 8**.
+- Pec deck uses **15, 12, 18, 10**. Curls and pushdowns use **15, 15, 15, 10**. Raises, rear-delt flyes, and machine kickbacks use **20, 20, 20, 12**.
+- Bulgarian split squats and RDLs use **10, 10, 10, 6** to raise bodybuilding reps modestly while accounting for iaido and tango. Light squats and Pallof presses retain their previous targets.
+- Set counts remain as listed. Choose new, lighter starting loads where needed for these higher targets, then keep each slot's weight fixed within the month. Do not try to force the higher reps with your previous heavier weights.
+- Use assisted pull-ups or lat pulldowns if needed to complete all prescribed reps with the intended reserve.
+- Farmer's walks: **2 carries of 30 metres**, **2 carries of 30 metres**, **2 carries of 40 metres**, then **1 carry of 20 metres** in each month's recovery week. In the app, `2x30 m` means two carries, not 30 repetitions.
+- Carry one dumbbell or kettlebell in each hand, keeping the same weight per hand throughout the month. Pick a load that allows the 40-metre carries with steady posture and a secure grip, without reaching grip failure. Walk normally, use controlled turns, and set the weights down under control. Rest **90 seconds** between carries, extending rest if needed.
+- Friday places carries after the last scheduled iaido session of the week under the assumed timetable. If they affect tango or leave your grip fatigued for practice, reduce to one carry; omit them if that is still disruptive.
 
 ## Fixed-weight progression
 
-Keep each exercise's working weight unchanged within its four-week block, including the lighter week. Each exercise/day slot can have its own load; Monday and Friday pulling need not use the same load. All working sets within a slot use that load. Preparation sets use lighter weights.
+Keep each exercise's working weight unchanged within its four-week block, including the lighter week. For carries, keep the weight per hand fixed and vary distance as prescribed. Each exercise/day slot can have its own load; Monday and Friday pulling need not use the same load. All working sets within a slot use that load. Preparation sets use lighter weights.
 
 - First exercise each day (deadlift, overhead press, back squat): **3x5, 4x4, 3x5, 2x3** across each block.
 - The main-lift baseline is 3x5. Week 2 spreads 16 total reps across four shorter sets; Week 3 returns to 15 reps in three sets. This is a small workload variation, not an automatic weekly increase. Week 4 reduces work to six reps. Compare control and effort between Weeks 1 and 3 before considering a load increase for the next block.
